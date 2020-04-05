@@ -15,7 +15,7 @@ namespace Business.Abstract
 
       IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId);
 
-      IDataResult<List<Apply>> GetByTitle(int getbytitle);
+      IDataResult<List<Apply>> GetByTitle(int getbytitleId);
 
   }
 }

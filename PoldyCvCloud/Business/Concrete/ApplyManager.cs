@@ -6,35 +6,45 @@ using Business.Abstract;
 namespace Business.Concrete
 {
 public class ApplyManager:IApplyService
+{
+    private IApplyDal _applyDal;
+
+    public ApplyManager(IApplyDal applyDal)
     {
-        public IDataResult<List<Apply>> GetList()
+        _applyDal = applyDal;
+    }
+
+    public IDataResult<List<Apply>> GetList()
         {
-            throw new NotImplementedException();
+            return new SuccesDatResult<List<Apply>>(_applyDal.GetList());
         }
 
         public IResult Add(Apply apply)
         {
-            throw new NotImplementedException();
+            _applyDal.Add(apply);
+            return new SuccesResult(Message.Added);
         }
 
         public IResult Update(Apply apply)
         {
-            throw new NotImplementedException();
+            _applyDal.Update(apply);
+            return new SuccesResult(Message.Updated);
         }
 
         public IResult Delete(Apply apply)
         {
-            throw new NotImplementedException();
+            _applyDal.Delete(apply);
+            return new SuccesResult(Message.Deleted);
         }
 
         public IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId)
         {
-            throw new NotImplementedException();
+            return new SuccesDatResult<Apply>(_applyDal.Get(p => p.DepartmentId == getbydepartmentId));
         }
 
-        public IDataResult<List<Apply>> GetByTitle(int getbytitle)
+        public IDataResult<List<Apply>> GetByTitle(int getbytitleId)
         {
-            throw new NotImplementedException();
+            return new SuucesDataResult<Apply>(_applyDal.Get(p => p.TitleId == getbytitleId));
         }
     }
 }
