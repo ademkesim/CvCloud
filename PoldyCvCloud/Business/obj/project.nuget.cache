@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+HvpbPkX0DhNlFCLXf3esJaJrRKL92T3Eq32Y9+3+QVSLJEsZPhQ66YxY2NLCfQy/QJr73l89hQ92+8DoIZdg==",
+  "dgSpecHash": "sArITTsZ+A3jazfhc8Lq6a2Cpuc7i+5aKzSxBDUmV084E8/iuoaQyhxPkyB2/gX/KNBTIZZWYeHEkv0UDn3XoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
