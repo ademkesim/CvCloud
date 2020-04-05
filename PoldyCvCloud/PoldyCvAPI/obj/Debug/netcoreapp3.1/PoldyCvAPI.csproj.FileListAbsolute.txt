@@ -13,3 +13,11 @@ C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netco
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.AssemblyInfoInputs.cache
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.AssemblyInfo.cs
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.RazorTargetAssemblyInfo.cache
