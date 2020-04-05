@@ -1,4 +1,0 @@
-C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
-C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
-C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
-C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
