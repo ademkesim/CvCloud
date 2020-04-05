@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PSGTJ8WQVxe/ZTb4cKSaXE8wz+AgXLVxa4MaODxyAojWaR59LlgaWwD/VGCrvI2sHy2jMEJJyDWJ4eyBWtHMeA==",
+  "dgSpecHash": "e6BTC8b0PD7PlOJwX8gasYBIIXA+PDRdsGyDxIEZq6DQkE5j8kq53fYBs7ri/ABnGLW5gP5wjPLilfBLU/xKzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ademk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ademk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
