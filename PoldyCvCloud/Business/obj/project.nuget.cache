@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SrzB+5i/y5nGUoYRxN9dufI3GI/Kn9JH41hML11N9IVN5TfLu9+643aVE8cURkDE1+o37MI8J06I9gtFY9wphg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ademk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
