@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Business.Abstract
 {
-    interface ICurriculumVitaeService
+  public  interface ICurriculumVitaeService
     {
         IResult Add(CurriculumVitae curriculumVitae);
         IResult Update(CurriculumVitae curriculumVitae);
