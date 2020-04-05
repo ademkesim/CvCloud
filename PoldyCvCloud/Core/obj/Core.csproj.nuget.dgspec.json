@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {}
+    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +46,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Text.Encoding": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
