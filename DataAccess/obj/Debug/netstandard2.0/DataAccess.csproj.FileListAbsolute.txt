@@ -1,0 +1,9 @@
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
