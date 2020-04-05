@@ -1,25 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Text;
 using Business.Abstract;
 
 namespace Business.Concrete
 {
    public class CurriculumVitaeManager:ICurriculumVitaeService
-    {
-        public IResult Add(CurriculumVitae curriculumVitae)
-        {
-            throw new NotImplementedException();
-        }
+   {
+       private ICurriculumVitaeDal _curriculumVitaeDal;
+
+       public CurriculumVitaeManager(ICurriculumVitaeDal curriculumVitaeDal)
+       {
+           _curriculumVitaeDal = curriculumVitaeDal;
+       }
+
+       public IResult Add(CurriculumVitae curriculumVitae)
+       {
+           _curriculumVitaeDal.Add(curriculumVitae);
+           return SuccesResult(Message.Added);
+       }
 
         public IResult Update(CurriculumVitae curriculumVitae)
         {
-            throw new NotImplementedException();
+            _curriculumVitaeDal.Update(curriculumVitae);
+            return SuccesResault(Message.Updated);
         }
 
         public IResult Delete(CurriculumVitae curriculumVitae)
         {
-            throw new NotImplementedException();
+            _curriculumVitaeDal.Delete(curriculumVitae);
+            return SuccesResult(Message.Deleted);
         }
     }
 }
