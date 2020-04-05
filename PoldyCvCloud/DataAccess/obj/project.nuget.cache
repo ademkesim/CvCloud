@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DdXIj7AQXgaKADWTExbKPvRKf9ke37ofN3w54ZYgBr4O6aXr7vMJmAs0SZoVv4NmkDzV6HdOZq8Gl+AvqKQQBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
@@ -116,6 +117,14 @@
     "C:\\Users\\ademk\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+=======
+  "dgSpecHash": "+nZOTPTQjCb4zHit/9um9HmkYj485DGE7fYXIDF1C+D+7TQYSbuXF64388MsodbfxG46CkwTuymF3fb/1nvTAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+>>>>>>> 55a18e2977a1bf05d950d50c50a7aa7521959abf
   ],
   "logs": []
 }
