@@ -45,6 +45,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "R5DvF73huJckSN9/GIpmVEV0pdHy++OuwuIclzTgtI+TjK/czo4GGyY/ZVaJoymSLfIr7AXNjw6NxKUZ7WZj0Q==",
+  "dgSpecHash": "cdJyWADgEaltyqVlYtmUXt0hy2ftfgYHreqsY4zEWt/CQgV8zNWSUlVDp7WY8PcCI6Zak6BNxIED6lrBVBb9ew==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ferit\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
+    "C:\\Users\\Ferit\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ferit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
