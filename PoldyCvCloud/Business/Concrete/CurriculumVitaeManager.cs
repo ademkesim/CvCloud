@@ -18,7 +18,7 @@ namespace Business.Concrete
        public IResult Add(CurriculumVitae curriculumVitae)
        {
            _curriculumVitaeDal.Add(curriculumVitae);
-           return SuccesResult(Message.Added);
+           return SuccessResult(Message.Added);
        }
 
         public IResult Update(CurriculumVitae curriculumVitae)
@@ -30,7 +30,7 @@ namespace Business.Concrete
         public IResult Delete(CurriculumVitae curriculumVitae)
         {
             _curriculumVitaeDal.Delete(curriculumVitae);
-            return SuccesResult(Message.Deleted);
+            return SuccessResult(Message.Deleted);
         }
     }
 }

@@ -28,18 +28,18 @@ public class ApplyManager:IApplyService
         public IResult Update(Apply apply)
         {
             _applyDal.Update(apply);
-            return new SuccesResult(Message.Updated);
+            return new SuccessResult(Message.Updated);
         }
 
         public IResult Delete(Apply apply)
         {
             _applyDal.Delete(apply);
-            return new SuccesResult(Message.Deleted);
+            return new SuccessResult(Message.Deleted);
         }
 
         public IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId)
         {
-            return new SuccesDatResult<Apply>(_applyDal.Get(p => p.DepartmentId == getbydepartmentId));
+            return new SuccessDatResult<Apply>(_applyDal.Get(p => p.DepartmentId == getbydepartmentId));
         }
 
         public IDataResult<List<Apply>> GetByTitle(int getbytitleId)
