@@ -1,5 +1,13 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "PSGTJ8WQVxe/ZTb4cKSaXE8wz+AgXLVxa4MaODxyAojWaR59LlgaWwD/VGCrvI2sHy2jMEJJyDWJ4eyBWtHMeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ademk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+=======
   "dgSpecHash": "bYFmchs1TxBK2w/zfpdQRaL9V/mW0U/LPycwJ0o3OiZNu4VC7L/htoQEAr42zo7wl8v3KiI5dgy8WHw2UFDTkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
@@ -9,6 +17,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512"
+>>>>>>> 55a18e2977a1bf05d950d50c50a7aa7521959abf
   ],
   "logs": []
 }

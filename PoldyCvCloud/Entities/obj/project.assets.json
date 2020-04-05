@@ -401,12 +401,32 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+=======
     "C:\\Users\\Ferit\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+>>>>>>> 55a18e2977a1bf05d950d50c50a7aa7521959abf
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+      "projectName": "Entities",
+      "projectPath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
       "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
       "projectName": "Entities",
       "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
@@ -419,6 +439,7 @@
       "configFilePaths": [
         "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 55a18e2977a1bf05d950d50c50a7aa7521959abf
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -430,8 +451,13 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+<<<<<<< HEAD
+            "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+=======
             "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
               "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+>>>>>>> 55a18e2977a1bf05d950d50c50a7aa7521959abf
             }
           }
         }

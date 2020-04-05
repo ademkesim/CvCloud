@@ -17,10 +17,6 @@ namespace Business.DependencyResolvers.Autofac
             builder.RegisterType<JobAdvertisementManager>().As<IJobAdvertisementService>();
             builder.RegisterType<PersonManager>().As<IPersonService>();
             builder.RegisterType<TitleManager>().As<ITitleService>();
-
-
-
-
         }
     }
 }
