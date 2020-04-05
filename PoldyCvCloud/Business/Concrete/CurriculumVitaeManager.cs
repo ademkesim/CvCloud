@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using Business.Abstract;
+using Business.Constans;
 
 namespace Business.Concrete
 {
@@ -18,19 +19,19 @@ namespace Business.Concrete
        public IResult Add(CurriculumVitae curriculumVitae)
        {
            _curriculumVitaeDal.Add(curriculumVitae);
-           return SuccessResult(Message.Added);
+           return SuccessResult(Messages.CvAdded);
        }
 
         public IResult Update(CurriculumVitae curriculumVitae)
         {
             _curriculumVitaeDal.Update(curriculumVitae);
-            return SuccesResault(Message.Updated);
+            return SuccesResault(Messages.CvUpdated);
         }
 
         public IResult Delete(CurriculumVitae curriculumVitae)
         {
             _curriculumVitaeDal.Delete(curriculumVitae);
-            return SuccessResult(Message.Deleted);
+            return SuccessResult(Messages.CvDeleted);
         }
     }
 }

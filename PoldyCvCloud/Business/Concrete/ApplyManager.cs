@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
+using Business.Constans;
 using Entities.Concrete;
 
 namespace Business.Concrete
@@ -23,19 +24,19 @@ public class ApplyManager:IApplyService
         public IResult Add(Apply apply)
         {
             _applyDal.Add(apply);
-            return new SuccesResult(Message.Added);
+            return new SuccesResult(Messages.ApplyAdded);
         }
 
         public IResult Update(Apply apply)
         {
             _applyDal.Update(apply);
-            return new SuccessResult(Message.Updated);
+            return new SuccessResult(Messages.ApplyUpdated);
         }
 
         public IResult Delete(Apply apply)
         {
             _applyDal.Delete(apply);
-            return new SuccessResult(Message.Deleted);
+            return new SuccessResult(Messages.ApplyDeleted);
         }
 
         public IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId)

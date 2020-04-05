@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using Business.Abstract;
+using Business.Constans;
 using Entities.Concrete;
 
 namespace Business.Concrete
@@ -19,24 +20,24 @@ namespace Business.Concrete
        public IResult Add(Department department)
        {
            _departmentDal.Add(department);
-           return SuccessResult(Message.Added);
+           return SuccessResult(Messages.DepartmentAdded);
        }
 
         public IResult Update(Department department)
         {
             _departmentDal.Update(department);
-            return SuccessResult(Message.Updated);
+            return SuccessResult(Messages.DepartmentUpdated);
         }
 
         public IResult Delete(Department department)
         {
             _departmentDal.Delete(department);
-            return SuccesResult(Message.Deleted);
+            return SuccesResult(Messages.DepartmentDeleted);
         }
 
         public IDataResult<List<Department>> GetList()
         {
-            return SuccessDataResult < List<Department>(_departmentDal.GetList());
+            return SuccessDataResult <List<Department>(_departmentDal.GetList());
         }
     }
 }
