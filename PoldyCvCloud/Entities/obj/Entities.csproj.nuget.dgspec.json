@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {}
+    "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,20 +62,20 @@
         }
       }
     },
-    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
               }
             }
           }

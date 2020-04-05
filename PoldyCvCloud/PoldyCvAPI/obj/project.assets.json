@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ferit\\.nuget\\packages\\": {},
+    "C:\\Users\\hhson\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
       "projectName": "PoldyCvAPI",
-      "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
-      "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
+      "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+      "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
