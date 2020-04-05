@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cdJyWADgEaltyqVlYtmUXt0hy2ftfgYHreqsY4zEWt/CQgV8zNWSUlVDp7WY8PcCI6Zak6BNxIED6lrBVBb9ew==",
+  "dgSpecHash": "Lke/MCgSP3ZCOeIa+eexBDpTdSP0TUFrkaGqvka1HFRuGXUqDseNCLPDT7VggEc+FTpdolqKQX+eECaIDWwBYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+  "projectFilePath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ferit\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
-    "C:\\Users\\Ferit\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\Ferit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    "C:\\Users\\retat\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
+    "C:\\Users\\retat\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\retat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }

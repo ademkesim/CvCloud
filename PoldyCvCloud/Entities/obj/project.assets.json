@@ -196,23 +196,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ferit\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\retat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -225,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+            "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
             }
           }
         }

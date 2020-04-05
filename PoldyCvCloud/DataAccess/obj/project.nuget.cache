@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+nZOTPTQjCb4zHit/9um9HmkYj485DGE7fYXIDF1C+D+7TQYSbuXF64388MsodbfxG46CkwTuymF3fb/1nvTAA==",
+  "dgSpecHash": "bFidPCWnYynwLqIvNGwYOG4aqdSUI9OTPUH5ExuUDeJg914hJrHRPtxos3BGSPu7j491wlBiXQFM9bgFXDYeew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\retat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\retat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

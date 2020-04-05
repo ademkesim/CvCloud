@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
