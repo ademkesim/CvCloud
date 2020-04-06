@@ -1,0 +1,13 @@
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Business.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Core.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
