@@ -33,5 +33,9 @@ namespace Business.Constans
         public static string TitleAdded = "Ünvan başarıyla eklendi";
         public static string TitleDeleted = "Ünvan Başarıyla silindi";
         public static string TitleUpdated = "Ünvan başarıyla güncellendi";
+        //for Notification
+        public static string NotificationAdded = "Bildirim başarıyla eklendi";
+        public static string NotificationUpdated = "Bildirim başarıyla silindi";
+        public static string NotificationDeleted = "Bildirim başarıyla silindi";
     }
 }
