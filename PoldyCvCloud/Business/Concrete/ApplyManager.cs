@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
-using Business.Constans;
 using Core.Utilities.Results;
 using Entities.Concrete;
 
@@ -19,35 +18,35 @@ public class ApplyManager:IApplyService
 
     public IDataResult<List<Apply>> GetList()
         {
-            return new SuccessDataResult<List<Apply>>(_applyDal.GetList());
+            return new SuccesDatResult<List<Apply>>(_applyDal.GetList());
         }
 
         public IResult Add(Apply apply)
         {
             _applyDal.Add(apply);
-            return new SuccessResult(Messages.ApplyAdded);
+            return new SuccesResult(Message.ApplyAdded);
         }
 
         public IResult Update(Apply apply)
         {
             _applyDal.Update(apply);
-            return new SuccessResult(Messages.ApplyUpdated);
+            return new SuccessResult(Message.ApplyUpdated);
         }
 
         public IResult Delete(Apply apply)
         {
             _applyDal.Delete(apply);
-            return new SuccessResult(Messages.ApplyDeleted);
+            return new SuccessResult(Message.ApplyDeleted);
         }
 
         public IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId)
         {
-            return new SuccessDataResult<Apply>(_applyDal.Get(p => p.DepartmentId == getbydepartmentId));
+            return new SuccessDatResult<Apply>(_applyDal.Get(p => p.DepartmentId == getbydepartmentId));
         }
 
         public IDataResult<List<Apply>> GetByTitle(int getbytitleId)
         {
-            return new SuccessDataResult<Apply>(_applyDal.Get(p => p.TitleId == getbytitleId));
+            return new SuucesDataResult<Apply>(_applyDal.Get(p => p.TitleId == getbytitleId));
         }
     }
 }
