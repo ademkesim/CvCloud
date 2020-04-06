@@ -1,0 +1,10 @@
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\PoldyCvAPI.exe
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.csprojAssemblyReference.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.AssemblyInfoInputs.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.AssemblyInfo.cs
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\staticwebassets\PoldyCvAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ferit\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\staticwebassets\PoldyCvAPI.StaticWebAssets.xml

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeVyRltuDHzs6d7FQwbD3w69uciQ9Zp6BroUqxzY5La+WJpUWfXUJ7rApcA+uUYtI/7WZe2JutgFvcmHrXooww==",
+  "success": true,
+  "projectFilePath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ademk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
