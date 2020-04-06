@@ -6194,7 +6194,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\retat\\.nuget\\packages\\": {}
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6202,12 +6203,16 @@
       "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
       "projectName": "Entities",
       "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
       "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
