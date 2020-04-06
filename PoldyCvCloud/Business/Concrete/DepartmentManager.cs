@@ -34,7 +34,7 @@ namespace Business.Concrete
         public IResult Delete(Department department)
         {
             _departmentDal.Delete(department);
-            return SuccesResult(Messages.DepartmentDeleted);
+            return SuccessResult(Messages.DepartmentDeleted);
         }
 
         public IDataResult<List<Department>> GetList()
