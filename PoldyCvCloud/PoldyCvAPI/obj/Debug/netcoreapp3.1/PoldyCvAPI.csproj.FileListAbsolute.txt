@@ -21,3 +21,8 @@ C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netco
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.RazorTargetAssemblyInfo.cache
+C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.csprojAssemblyReference.cache
+C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.csproj.CoreCompileInputs.cache
+C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.AssemblyInfoInputs.cache
+C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\obj\Debug\netcoreapp3.1\PoldyCvAPI.AssemblyInfo.cs
