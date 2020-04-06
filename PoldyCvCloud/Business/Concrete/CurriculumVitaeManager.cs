@@ -22,19 +22,20 @@ namespace Business.Concrete
        public IResult Add(CurriculumVitae curriculumVitae)
        {
            _curriculumVitaeDal.Add(curriculumVitae);
-           return SuccessResult(Messages.CvAdded);
+           return new SuccessResult(Messages.CurriculumVitaeAdded);
        }
 
         public IResult Update(CurriculumVitae curriculumVitae)
         {
             _curriculumVitaeDal.Update(curriculumVitae);
-            return SuccesResult(Messages.CvUpdated);
+            return new SuccessResult(Messages.CurriculumVitaeUpdated);
         }
+
 
         public IResult Delete(CurriculumVitae curriculumVitae)
         {
             _curriculumVitaeDal.Delete(curriculumVitae);
-            return SuccessResult(Messages.CvDeleted);
+            return new SuccessResult(Messages.CurriculumVitaeDeleted);
         }
     }
 }

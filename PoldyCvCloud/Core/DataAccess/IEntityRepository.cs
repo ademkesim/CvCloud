@@ -13,6 +13,6 @@ namespace Core.DataAccess
         void Delete(T entity);
         void Update(T entity);
         T Get(Expression<Func<T, bool>> filter);
-        IList<T> GetList(Expression<Func<T, bool>> filter = null);
+        List<T> GetList(Expression<Func<T, bool>> filter = null);
     }
 }

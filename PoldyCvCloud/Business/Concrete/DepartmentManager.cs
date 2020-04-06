@@ -7,7 +7,7 @@ using Business.Constans;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
-using Core.Utilities.Results;
+
 namespace Business.Concrete
 {
    public class DepartmentManager:IDepartmentService
@@ -22,24 +22,24 @@ namespace Business.Concrete
        public IResult Add(Department department)
        {
            _departmentDal.Add(department);
-           return SuccessResult(Messages.DepartmentAdded);
+           return new SuccessResult(Messages.DepartmentAdded);
        }
 
         public IResult Update(Department department)
         {
             _departmentDal.Update(department);
-            return SuccessResult(Messages.DepartmentUpdated);
+            return new SuccessResult(Messages.DepartmentUpdated);
         }
 
         public IResult Delete(Department department)
         {
             _departmentDal.Delete(department);
-            return SuccessResult(Messages.DepartmentDeleted);
+            return new SuccessResult(Messages.DepartmentDeleted);
         }
 
         public IDataResult<List<Department>> GetList()
         {
-            return SuccessDataResult <List<Department>>(_departmentDal.GetList());
+            return new SuccessDataResult <List<Department>>(_departmentDal.GetList());
         }
     }
 }

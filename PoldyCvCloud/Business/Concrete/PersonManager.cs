@@ -2,31 +2,45 @@
 using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
+using Business.Constans;
 using Core.Utilities.Results;
+using DataAccess.Abstract;
 using Entities.Concrete;
 
 namespace Business.Concrete
 {
    public class PersonManager:IPersonService
-    {
-        public IResult Add(Person person)
-        {
-            throw new NotImplementedException();
-        }
+   {
+       private IPersonDal _personDal;
+
+       public PersonManager(IPersonDal personDal)
+       {
+           _personDal = personDal;
+       }
+
+       public IResult Add(Person person)
+       {
+           _personDal.Add(person);
+           return new SuccessResult(Messages.PersonAdded);
+       }
 
         public IResult Update(Person person)
         {
-            throw new NotImplementedException();
+            _personDal.Update(person);
+            return new SuccessResult(Messages.PersonUpdated);
         }
 
         public IResult Delete(Person person)
         {
-            throw new NotImplementedException();
+            _personDal.Delete(person);
+            return new SuccessResult(Messages.PersonDeleted);
         }
+
 
         public IDataResult<List<Person>> GetList()
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<Person>>(_personDal.GetList());
         }
+
     }
 }

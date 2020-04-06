@@ -2,36 +2,48 @@
 using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
+using Business.Constans;
 using Core.Utilities.Results;
+using DataAccess.Abstract;
 using Entities.Concrete;
 
 namespace Business.Concrete
 {
     public class TitleManager : ITitleService
     {
+        private ITitleDal _titleDal;
+
+        public TitleManager(ITitleDal titleDal)
+        {
+            _titleDal = titleDal;
+        }
+
         public IResult Add(Title title)
         {
-            throw new NotImplementedException();
+            _titleDal.Add(title);
+            return new SuccessResult(Messages.TitleAdded);
         }
 
         public IResult Delete(Title title)
         {
-            throw new NotImplementedException();
+            _titleDal.Delete(title);
+            return new SuccessResult(Messages.TitleDeleted);
         }
 
         public IDataResult<List<Title>> GetByDepartment(int getbydepartmentId)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<Title>>(_titleDal.GetList(p=>p.DepartmentId==getbydepartmentId));
         }
 
         public IDataResult<List<Title>> GetList()
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<Title>>(_titleDal.GetList());
         }
 
         public IResult Update(Title title)
         {
-            throw new NotImplementedException();
+            _titleDal.Update(title);
+            return new SuccessResult(Messages.TitleUpdated);
         }
     }
 }
