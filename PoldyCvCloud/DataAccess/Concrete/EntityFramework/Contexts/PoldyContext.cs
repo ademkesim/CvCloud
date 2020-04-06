@@ -12,7 +12,6 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         {
             optionsBuilder.UseSqlServer(@"server=(localdb)\MSSQLLocalDB;Database=PoldyCv;Trusted_Connection=true");
         }
-
         public DbSet<Person> Persons { get; set; }
         public DbSet<JobAdvertisement> JobAdvertisements { get; set; }
         public DbSet<CurriculumVitae> CurriculumVitaes { get; set; }
