@@ -10,12 +10,3 @@ C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\ademk\source\repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.pdb
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.deps.json
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.dll
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.pdb
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.dll
-C:\Users\retat\Source\Repos\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.pdb

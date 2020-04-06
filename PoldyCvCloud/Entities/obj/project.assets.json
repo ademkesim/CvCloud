@@ -6194,20 +6194,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\retat\\.nuget\\packages\\": {}
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -6219,8 +6224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\retat\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+            "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\ademk\\source\\repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
             }
           }
         }

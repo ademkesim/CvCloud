@@ -40,4 +40,4 @@ namespace Business.Concrete
        }
    }
 }
-
+}
