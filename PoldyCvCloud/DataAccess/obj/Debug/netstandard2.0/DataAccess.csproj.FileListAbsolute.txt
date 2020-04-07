@@ -11,7 +11,6 @@ C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\E
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
-C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
@@ -26,3 +25,4 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\Da
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

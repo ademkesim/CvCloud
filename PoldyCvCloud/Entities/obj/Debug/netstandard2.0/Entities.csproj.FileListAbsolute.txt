@@ -6,7 +6,6 @@ C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\bin\Debug\netstandard2.0\Ent
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\bin\Debug\netstandard2.0\Entities.dll
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\bin\Debug\netstandard2.0\Entities.pdb
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\bin\Debug\netstandard2.0\Core.pdb
-C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.pdb
@@ -22,3 +21,4 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Enti
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache

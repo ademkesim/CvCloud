@@ -41,6 +41,10 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<Person>>(_personDal.GetList());
         }
+        public Person GetByMail(string email)
+        {
+            return _personDal.Get(u => u.Mail == email);
+        }
 
     }
 }

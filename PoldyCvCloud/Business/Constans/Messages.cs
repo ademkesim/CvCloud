@@ -6,6 +6,8 @@ namespace Business.Constans
 {
     public static class Messages
     {
+        internal static readonly string UserRegistered;
+
         //for Apply
         public static string ApplyAdded = "Başvurunuz başarıyla alındı";
         public static string ApplyUpdated = "Başvurunuz başarıyla  Güncellendi";
@@ -29,6 +31,7 @@ namespace Business.Constans
         public static string PersonAdded = "Kişi başarıyla eklendi";
         public static string PersonUpdated ="Kişi başarıyla güncellendi";
         public static string PersonDeleted = "Kişi başarıyla silindi";
+        public static string PersonNotFound = "Kişi Bulunamadı";
         //for Title
         public static string TitleAdded = "Ünvan başarıyla eklendi";
         public static string TitleDeleted = "Ünvan Başarıyla silindi";
@@ -37,5 +40,10 @@ namespace Business.Constans
         public static string NotificationAdded = "Bildirim başarıyla eklendi";
         public static string NotificationUpdated = "Bildirim başarıyla silindi";
         public static string NotificationDeleted = "Bildirim başarıyla silindi";
+        //for Login
+        public static string PasswordError = "Yanlış Parola Girdiniz";
+        public static string SuccessfullLogin = "Başarıyla Giriş Yapıldı";
+        public static string UserAlreadyExists = "Başarıyla Çıkış Yapıldı";
+
     }
 }

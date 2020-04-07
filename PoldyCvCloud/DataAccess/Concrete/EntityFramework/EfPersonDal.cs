@@ -8,7 +8,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfPersonDal:EfEntityRepositoryBase<Person,PoldyContext>
+    public class EfPersonDal:EfEntityRepositoryBase<Person,PoldyContext>, IPersonDal
     {
     }
 }

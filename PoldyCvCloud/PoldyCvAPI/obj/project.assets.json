@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Autofac/5.0.0": {
+      "Autofac/5.1.2": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/Autofac.dll": {}
@@ -859,7 +859,7 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/System.Runtime.dll": {}
         }
       },
       "System.Runtime.Caching/4.5.0": {
@@ -1093,7 +1093,7 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/System.Text.Encoding.dll": {}
         }
       },
       "System.Text.Encoding.CodePages/4.5.0": {
@@ -1274,18 +1274,77 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Autofac": "5.1.2",
+          "DataAccess": "1.0.0",
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3",
+          "System.Text.Encoding": "4.3.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Autofac/5.0.0": {
-      "sha512": "U1aCHUMXuG7DDJ5JmTXF2kInXpad3Fuow+voSXEVunDHW4OkD8GDWJjleHpJPanpP+3dUQYLAM9R2lftGiQSbA==",
+    "Autofac/5.1.2": {
+      "sha512": "iGEx5Cm6Uor6/bZkgCHHjJO8cEQvDSOxgzNmHGJgGOnLDCe0b8NpOlhotsqx8dFvBDCsEX/V3YGRR30sRQLsxw==",
       "type": "package",
-      "path": "autofac/5.0.0",
+      "path": "autofac/5.1.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "autofac.5.0.0.nupkg.sha512",
+        "autofac.5.1.2.nupkg.sha512",
         "autofac.nuspec",
         "icon.png",
         "lib/net461/Autofac.dll",
@@ -4974,11 +5033,33 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Autofac >= 5.1.2",
       "Autofac.Extensions.DependencyInjection >= 6.0.0",
+      "Business >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3"
     ]
   },
@@ -5012,7 +5093,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj": {
+              "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5024,6 +5109,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[5.1.2, )"
+          },
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[6.0.0, )"

@@ -1,5 +1,4 @@
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
-C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Business.deps.json
@@ -29,3 +28,5 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Busi
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.pdb
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.dll
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
