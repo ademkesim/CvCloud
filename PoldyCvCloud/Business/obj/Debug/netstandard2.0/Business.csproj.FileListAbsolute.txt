@@ -27,3 +27,5 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Core
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.pdb

@@ -5,6 +5,7 @@ using Business.Abstract;
 using Business.Constans;
 using Core.Entities.Abstract;
 using Core.Utilities.Results;
+using DataAccess.Abstract;
 using Entities.Concrete;
 
 namespace Business.Concrete
