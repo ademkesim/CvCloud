@@ -19,3 +19,4 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.Ass
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.pdb
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
