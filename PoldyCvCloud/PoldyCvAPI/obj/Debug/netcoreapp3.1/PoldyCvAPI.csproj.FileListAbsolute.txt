@@ -138,3 +138,11 @@ C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Mi
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\PoldyCvAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

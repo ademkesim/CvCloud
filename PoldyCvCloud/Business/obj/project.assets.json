@@ -6484,24 +6484,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hhson\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-      "outputPath": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Business\\obj\\",
+      "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+      "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -6513,11 +6514,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj"
+            "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj"
+            "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj"
             }
           }
         }
