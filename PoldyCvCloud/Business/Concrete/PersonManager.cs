@@ -11,14 +11,17 @@ namespace Business.Concrete
 {
    public class PersonManager:IPersonService
    {
-       private IPersonDal _personDal;
+        private IPersonDal _personDal;
+        private IPersonService _personService;
 
-       public PersonManager(IPersonDal personDal)
-       {
-           _personDal = personDal;
-       }
+        public PersonManager(IPersonDal personDal, IPersonService personService)
+        {
+            _personDal = personDal;
+            _personService = personService;
 
-       public IResult Add(Person person)
+        }
+
+        public IResult Add(Person person)
        {
            _personDal.Add(person);
            return new SuccessResult(Messages.PersonAdded);
@@ -46,5 +49,14 @@ namespace Business.Concrete
         {
             return _personDal.Get(u => u.Mail == mail);
         }
-   }
+
+        public IResult UserExists(string email)
+        {
+            if (_personService.GetByMail(email) != null)
+            {
+                return new ErrorResult(Messages.alreadyUserExists);
+            }
+            return new SuccessResult();
+        }
+    }
 }

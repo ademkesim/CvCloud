@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj": {}
+    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj": {}
   },
   "projects": {
-    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj": {
+    "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -31,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj"
+              "C:\\PoldyProjects\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj"
+              "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj"
               }
             }
           }
@@ -78,22 +77,21 @@
         }
       }
     },
-    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+    "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -153,22 +151,21 @@
         }
       }
     },
-    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
+    "C:\\PoldyProjects\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\DataAccess\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -180,11 +177,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
-                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+              "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj": {
+                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj"
               },
-              "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj"
+              "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj"
               }
             }
           }
@@ -223,22 +220,21 @@
         }
       }
     },
-    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
+    "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -250,8 +246,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
-                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+              "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj": {
+                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Core\\Core.csproj"
               }
             }
           }
@@ -290,22 +286,21 @@
         }
       }
     },
-    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj": {
+    "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
         "projectName": "PoldyCvAPI",
-        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -317,8 +312,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj": {
-                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj"
+              "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj": {
+                "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj"
               }
             }
           }
@@ -347,6 +342,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
