@@ -44,13 +44,13 @@ public class ApplyManager:IApplyService
         public IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId)
 
         {
-            return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.DepartmentId == getbydepartmentId));
+            return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.DepartmentID == getbydepartmentId));
         }
 
         public IDataResult<List<Apply>> GetByTitle(int getbytitleId)
         {
 
-            return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.TitleId == getbytitleId));
+            return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.TitleID == getbytitleId));
         }
     }
 }
