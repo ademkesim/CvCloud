@@ -42,6 +42,7 @@ public class ApplyManager:IApplyService
         }
 
         public IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId)
+
         {
             return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.DepartmentId == getbydepartmentId));
         }

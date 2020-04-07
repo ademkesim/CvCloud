@@ -29,7 +29,6 @@ namespace Business.Constans
         public static string PersonAdded = "Kişi başarıyla eklendi";
         public static string PersonUpdated ="Kişi başarıyla güncellendi";
         public static string PersonDeleted = "Kişi başarıyla silindi";
-        public static string PersonNotFound = "Kişi Bulunamadı";
         //for Title
         public static string TitleAdded = "Ünvan başarıyla eklendi";
         public static string TitleDeleted = "Ünvan Başarıyla silindi";
@@ -38,10 +37,13 @@ namespace Business.Constans
         public static string NotificationAdded = "Bildirim başarıyla eklendi";
         public static string NotificationUpdated = "Bildirim başarıyla silindi";
         public static string NotificationDeleted = "Bildirim başarıyla silindi";
-        //for Login
-        public static string PasswordError = "Yanlış Parola Girdiniz";
-        public static string SuccessfullLogin = "Başarıyla Giriş Yapıldı";
-        public static string UserAlreadyExists = "Başarıyla Çıkış Yapıldı";
 
+        public static string UserNotFound = "Kullanıcı Bulunamadı";
+        public static string PasswordEror = "Şifre Hatalı";
+        public static string messagesSuccesfulLogin = "Sisteme Başarıyla giriş yapıldı";
+        public static string alreadyUserExists = "Bu kullanıcı zaten mevcut";
+        public static string userRegistered = "Kullanıcı başarıyla kaydedildi";
+        public static string AccessTokenCreated = "Acces Token Başarıyla Oluşturuldu";
+        public static string SuccesfulLogin = "Giriş Başarılı";
     }
 }

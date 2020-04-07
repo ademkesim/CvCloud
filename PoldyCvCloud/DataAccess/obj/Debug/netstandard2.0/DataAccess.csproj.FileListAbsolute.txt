@@ -26,3 +26,17 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\Da
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
