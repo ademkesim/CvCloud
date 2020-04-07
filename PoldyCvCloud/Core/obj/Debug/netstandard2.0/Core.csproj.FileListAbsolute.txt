@@ -9,7 +9,6 @@ C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.As
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.pdb
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.dll
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.pdb
-C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.deps.json
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.dll
 C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Core\bin\Debug\netstandard2.0\Core.pdb

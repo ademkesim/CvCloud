@@ -6,8 +6,6 @@ namespace Business.Constans
 {
     public static class Messages
     {
-        internal static readonly string UserRegistered;
-
         //for Apply
         public static string ApplyAdded = "Başvurunuz başarıyla alındı";
         public static string ApplyUpdated = "Başvurunuz başarıyla  Güncellendi";

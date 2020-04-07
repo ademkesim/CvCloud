@@ -24,7 +24,7 @@ namespace Business.Concrete
             HashingHelper.CreatePasswordHash(password, out passwordHash, out passwordSalt);
             var person = new Person
             {
-                Mail = userForRegisterDto.Email,
+                Mail = userForRegisterDto.Mail,
                 FirstName = userForRegisterDto.FirstName,
                 LastName = userForRegisterDto.LastName,
                 PasswordHash = passwordHash,
