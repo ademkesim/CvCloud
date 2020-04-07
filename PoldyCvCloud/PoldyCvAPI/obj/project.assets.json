@@ -8522,24 +8522,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ferit\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+      "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
       "projectName": "PoldyCvAPI",
-      "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
-      "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-      "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
+      "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+      "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8551,8 +8552,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj": {
-              "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\Business\\Business.csproj"
+            "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj": {
+              "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj"
             }
           }
         }
