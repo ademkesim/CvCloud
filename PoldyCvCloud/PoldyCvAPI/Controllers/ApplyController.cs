@@ -28,9 +28,9 @@ namespace PoldyCvAPI.Controllers
             return BadRequest(result.Message);
         }
         [HttpGet("getbydepartment")]
-        public IActionResult GetByDepartment(int departmentId)
+        public IActionResult GetByDepartment(int getbydepartmentId)
         {
-            var result = _applyService.GetByDepartment(departmentId);
+            var result = _applyService.GetByDepartment(getbydepartmentId);
             if (result.Success)
             {
                 return Ok(result.Data);
@@ -38,9 +38,9 @@ namespace PoldyCvAPI.Controllers
             return BadRequest(result.Message);
         }
         [HttpGet("getbytitle")]
-        public IActionResult GetByTitle(int titleId)
+        public IActionResult GetByTitle(int getbytitleId)
         {
-            var result = _applyService.GetByTitle(titleId);
+            var result = _applyService.GetByTitle(getbytitleId);
             if (result.Success)
             {
                 return Ok(result.Data);

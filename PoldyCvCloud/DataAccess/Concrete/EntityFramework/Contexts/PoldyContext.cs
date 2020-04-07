@@ -17,6 +17,6 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         public DbSet<CurriculumVitae> CurriculumVitaes { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Title> Titles { get; set; }
-        public DbSet<Apply> Applies { get; set; }
+        public DbSet<Apply> Applys { get; set; }
     }
 }

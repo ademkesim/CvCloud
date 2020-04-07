@@ -13,6 +13,6 @@ namespace Entities.Concrete
         public int DepartmentID { get; set; }
         public int JobAdvertisementID { get; set; }
         public string Detail { get; set; }
-        public byte Pdf { get; set; }
+        public byte[] Pdf { get; set; }
     }
 }
