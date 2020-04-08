@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Org.BouncyCastle.Asn1.Mozilla;
 
 namespace Business.Constans
 {
@@ -45,5 +46,6 @@ namespace Business.Constans
         public static string userRegistered = "Kullanıcı başarıyla kaydedildi";
         public static string AccessTokenCreated = "Acces Token Başarıyla Oluşturuldu";
         public static string SuccesfulLogin = "Giriş Başarılı";
+        public static string DownloadedPdf = "Cv Pdf İndirildi";
     }
 }

@@ -89,7 +89,7 @@ namespace Business.Concrete
                 this.CvPdf = File.ReadAllBytes(@"C:\Users\ademk\Desktop\PoldyMyCv.pdf");
             }
         }
-        public IResult Add(CurriculumVitae curriculumVitae)
+        public IResult Add(CurriculumVitae curriculumVitae, int id)
         {
             _curriculumVitaeDal.Add(curriculumVitae);
             CvAdd(curriculumVitae);
@@ -97,6 +97,7 @@ namespace Business.Concrete
             var CV = new CurriculumVitae
             {
                 CurriculumVitaeId = curriculumVitae.CurriculumVitaeId,
+                PersonID = id,
                 FirstName = curriculumVitae.FirstName,
                 LastName = curriculumVitae.LastName,
                 BirthDate = curriculumVitae.BirthDate,
@@ -130,6 +131,11 @@ namespace Business.Concrete
         {
             _curriculumVitaeDal.Delete(curriculumVitae);
             return new SuccessResult(Messages.CurriculumVitaeDeleted);
+        }
+
+        public IDataResult<List<CurriculumVitae>> GetById(int personId)
+        {
+            return new SuccessDataResult<List<CurriculumVitae>>(_curriculumVitaeDal.GetList(p => p.PersonID == personId));
         }
     }
 }

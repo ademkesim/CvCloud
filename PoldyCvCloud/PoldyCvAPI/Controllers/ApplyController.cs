@@ -78,5 +78,16 @@ namespace PoldyCvAPI.Controllers
             }
             return BadRequest(result.Message);
         }
+
+        [HttpGet("downloadpdf")]
+        public IActionResult DownloadPdf(int personId)
+        {
+            var result = _applyService.DownloadPdf(personId);
+            if (result.Success)
+            {
+                return Ok(result.Message);
+            }
+            return BadRequest(result.Message);
+        }
     }
 }

@@ -19,9 +19,9 @@ namespace PoldyCvAPI.Controllers
             _curriculumVitaeService = curriculumVitaeService;
         }
         [HttpPost("add")]
-        public IActionResult Add(CurriculumVitae curriculumVitae)
+        public IActionResult Add(CurriculumVitae curriculumVitae, int id)
         {
-            var result = _curriculumVitaeService.Add(curriculumVitae);
+            var result = _curriculumVitaeService.Add(curriculumVitae, id);
             if (result.Success)
             {
                 return Ok(result.Message);

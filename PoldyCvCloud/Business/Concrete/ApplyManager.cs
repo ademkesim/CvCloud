@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
 using System.Text;
 using Business.Abstract;
 using Business.Constans;
@@ -13,11 +15,13 @@ public class ApplyManager:IApplyService
 {
     private IApplyDal _applyDal;
     private INotificationDal _notificationDal;
+    private ICurriculumVitaeDal _curriculumVitaeDal;
 
-    public ApplyManager(IApplyDal applyDal, INotificationDal notificationDal)
+    public ApplyManager(IApplyDal applyDal, INotificationDal notificationDal, ICurriculumVitaeDal curriculumVitaeDal)
     {
         _applyDal = applyDal;
         _notificationDal = notificationDal;
+        _curriculumVitaeDal = curriculumVitaeDal;
     }
 
     public IDataResult<List<Apply>> GetList()
@@ -55,6 +59,15 @@ public class ApplyManager:IApplyService
             return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.TitleId == getbytitleId));
         }
 
+        public IResult DownloadPdf(int personId)
+        {
+            var Cv = _curriculumVitaeDal.Get(p => p.PersonID == personId);
+            MemoryStream ms = new MemoryStream(Cv.CvPdf);
+            ms.Position = 0;
+            File.WriteAllBytes(@"D:\mypdf.pdf", ms.ToArray());
+            return new SuccessResult(Messages.DownloadedPdf);
+        }
+
         public void Conformation()
         {
             bool onay=true;
@@ -62,18 +75,12 @@ public class ApplyManager:IApplyService
             {
                 var result = _notificationDal.Get(p => p.NotificationId == 1);
                 var message = result.Message;
-                
-
-
             }
             else
             {
                 var result = _notificationDal.Get(p => p.NotificationId == 2);
                 var message = result.Message;
-              
             }
-
-
         }
     }
 }

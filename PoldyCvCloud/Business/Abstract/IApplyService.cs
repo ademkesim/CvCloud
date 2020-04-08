@@ -18,6 +18,7 @@ namespace Business.Abstract
       IDataResult<List<Apply>> GetByDepartment(int getbydepartmentId);
 
       IDataResult<List<Apply>> GetByTitle(int getbytitleId);
+      IResult DownloadPdf(int personId);
       void Conformation();
 
   }

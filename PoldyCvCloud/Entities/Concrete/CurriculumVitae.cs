@@ -8,6 +8,7 @@ namespace Entities.Concrete
     public class CurriculumVitae:IEntity
     {
         public int CurriculumVitaeId { get; set; }
+        public int PersonID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime BirthDate { get; set; }
