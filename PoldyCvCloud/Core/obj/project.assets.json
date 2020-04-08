@@ -6388,24 +6388,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hhson\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-      "outputPath": "C:\\PoldyCvCloud1\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
+      "projectPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+      "outputPath": "C:\\PoldyProjects\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

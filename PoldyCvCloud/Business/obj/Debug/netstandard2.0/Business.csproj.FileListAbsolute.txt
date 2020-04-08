@@ -29,7 +29,6 @@ C:\PoldyCvCloud\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Busi
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.dll
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.pdb
 C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Business.pdb
-C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
@@ -46,3 +45,4 @@ C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Dat
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Entities.pdb
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\bin\Debug\netstandard2.0\Core.pdb
 C:\PoldyCvCloud1\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\PoldyProjects\PoldyCvCloud\PoldyCvCloud\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache

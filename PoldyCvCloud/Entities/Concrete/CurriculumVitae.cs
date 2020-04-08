@@ -18,12 +18,13 @@ namespace Entities.Concrete
         public DateTime SchoolStart { get; set; }
         public DateTime SchoolFinish { get; set; }
         public string Address { get; set; }
-        public int MobilTelephoneNumber { get; set; }
+        public int MobilTelefonNumber { get; set; }
         public string Mail { get; set; }
         public string ForeignLanguage { get; set; }
         public string ForeignLanguageLevel { get; set; }
         public string Competences { get; set; }
         public string Reference { get; set; }
+        public byte[] CvPdf { get; set; }
 
     }
 }

@@ -335,6 +335,17 @@
           "lib/netstandard2.1/Autofac.Extensions.DependencyInjection.dll": {}
         }
       },
+      "iTextSharp/5.5.10": {
+        "runtime": {
+          "lib/itextsharp.dll": {
+            "assemblyVersion": "5.5.10.0",
+            "fileVersion": "5.5.10.0"
+          }
+        },
+        "compile": {
+          "lib/itextsharp.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.3": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
@@ -2217,7 +2228,8 @@
           "Autofac": "5.1.2",
           "DataAccess": "1.0.0",
           "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3",
+          "iTextSharp": "5.5.10"
         },
         "runtime": {
           "Business.dll": {}
@@ -3912,6 +3924,13 @@
       "sha512": "sha512-+1WNYENm4s/bSBrmTy2sD0zs6MCiCAlUaEbHJ+y7fKpXKqnFl4oTkIkUoDKlp05dl1VoAASBUJocaKKJa1KPCw==",
       "path": "autofac.extensions.dependencyinjection/6.0.0",
       "hashPath": "autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512"
+    },
+    "iTextSharp/5.5.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C0JO7VkQIBxd1lQmJz4Flfvvwy0574bG+j/3HXhpNqTmmyD5S/nNOhxVpSydfgr7/Oup7Nf3vFBSByec8u6g0A==",
+      "path": "itextsharp/5.5.10",
+      "hashPath": "itextsharp.5.5.10.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.3": {
       "type": "package",
