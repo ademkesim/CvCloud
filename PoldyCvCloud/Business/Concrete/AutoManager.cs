@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
 using Business.Constans;
+using Core.Entities.Concrte;
 using Core.Hashing;
 using Core.Security.Jwt;
 using Core.Utilities.Results;

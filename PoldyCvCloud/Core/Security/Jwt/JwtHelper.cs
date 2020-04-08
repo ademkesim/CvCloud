@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Text;
+using Core.Entities.Concrte;
 using Core.Security.Encryption;
-using Entities.Concrete;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 

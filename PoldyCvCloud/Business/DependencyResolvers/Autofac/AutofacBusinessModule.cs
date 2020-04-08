@@ -28,8 +28,8 @@ namespace Business.DependencyResolvers.Autofac
             builder.RegisterType<JobAdvertisementManager>().As<IJobAdvertisementService>();
             builder.RegisterType<EfJobAdvertisementDal>().As<IJobAdvertisementDal>();
 
-            builder.RegisterType<PersonManager>().As<IPersonService>();
             builder.RegisterType<EfPersonDal>().As<IPersonDal>();
+            builder.RegisterType<PersonManager>().As<IPersonService>();
 
             builder.RegisterType<TitleManager>().As<ITitleService>();
             builder.RegisterType<EfTitleDal>().As<ITitleDal>();

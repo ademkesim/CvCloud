@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Concrete
+namespace Core.Entities.Concrte
 {
     public class Person:IEntity
     {
