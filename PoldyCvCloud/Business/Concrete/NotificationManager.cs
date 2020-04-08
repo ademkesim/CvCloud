@@ -35,7 +35,7 @@ namespace Business.Concrete
 
         public IResult Delete(Notification notification)
         {
-            _notificationDal.Update(notification);
+            _notificationDal.Delete(notification);
             return new SuccessResult(Messages.NotificationDeleted);
         }
     }

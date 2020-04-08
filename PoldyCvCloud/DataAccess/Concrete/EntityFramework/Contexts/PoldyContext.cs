@@ -18,5 +18,6 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         public DbSet<Department> Departments { get; set; }
         public DbSet<Title> Titles { get; set; }
         public DbSet<Apply> Applys { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
     }
 }

@@ -36,7 +36,7 @@ namespace Business.Constans
         public static string TitleUpdated = "Ünvan başarıyla güncellendi";
         //for Notification
         public static string NotificationAdded = "Bildirim başarıyla eklendi";
-        public static string NotificationUpdated = "Bildirim başarıyla silindi";
+        public static string NotificationUpdated = "Bildirim başarıyla güncellendi";
         public static string NotificationDeleted = "Bildirim başarıyla silindi";
 
         public static string UserNotFound = "Kullanıcı Bulunamadı";
