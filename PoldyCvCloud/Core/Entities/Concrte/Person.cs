@@ -15,6 +15,5 @@ namespace Entities.Concrete
         public byte[] PasswordHash { get; set; }
         public bool Rank { get; set; }
         public bool Status { get; set; }
-
     }
 }

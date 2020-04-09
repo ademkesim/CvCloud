@@ -59,6 +59,11 @@ public class ApplyManager:IApplyService
             return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.TitleId == getbytitleId));
         }
 
+        public IDataResult<List<Apply>> GetById(int getbyapplyId)
+        {
+            return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.ApplyId == getbyapplyId));
+        }
+
         public IResult DownloadPdf(int personId)
         {
             var Cv = _curriculumVitaeDal.Get(p => p.PersonID == personId);
