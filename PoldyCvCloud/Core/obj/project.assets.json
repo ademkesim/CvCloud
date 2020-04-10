@@ -6394,11 +6394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-      "outputPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
+      "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

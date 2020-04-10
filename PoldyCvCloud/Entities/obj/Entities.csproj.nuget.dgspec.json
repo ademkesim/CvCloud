@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {}
+    "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -104,8 +104,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
-                "projectPath": "C:\\PoldyCv\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Core\\Core.csproj"
               }
             }
           }
