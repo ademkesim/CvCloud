@@ -21,5 +21,7 @@ namespace Entities.Dtos
         [StringLength(20, MinimumLength = 2)]
         public string LastName { get; set; }
 
+        public bool Rank { get; set; }
+
     }
 }

@@ -6515,11 +6515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Business\\obj\\",
+      "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6538,11 +6538,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud4\\PoldyCvCloud\\Entities\\Entities.csproj"
+            "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj"
             }
           }
         }

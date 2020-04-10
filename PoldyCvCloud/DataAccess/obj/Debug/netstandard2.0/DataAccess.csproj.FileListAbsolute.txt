@@ -54,3 +54,17 @@ C:\PoldyCv\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAcc
 C:\PoldyCv\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\PoldyCv\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyCv\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\hhson\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
