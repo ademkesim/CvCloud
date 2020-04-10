@@ -10,4 +10,4 @@ Kullanıcı ise bireysel cv oluşturabilmektedir. Bu cv ile açık olarak görd�
   Şifre : 12345
   
   
-#Veritabanı : PoldySoftwareCv.dacpac
+# Veritabanı : PoldySoftwareCv.dacpac
