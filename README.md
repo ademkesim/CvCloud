@@ -8,3 +8,6 @@ Kullanıcı ise bireysel cv oluşturabilmektedir. Bu cv ile açık olarak görd�
 # Aday Kullanıcı
   Mail Adresi : kullanici@poldy.com
   Şifre : 12345
+  
+  
+#Veritabanı : PoldySoftwareCv.dacpac
