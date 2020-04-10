@@ -33,6 +33,7 @@ namespace Business.Concrete
                 Mail = userForRegisterDto.Mail,
                 PasswordHash = passwordHash,
                 PasswordSalt = passwordSalt,
+                Rank = userForRegisterDto.Rank,
                 Status = true
             };
             _personService.Add(person);

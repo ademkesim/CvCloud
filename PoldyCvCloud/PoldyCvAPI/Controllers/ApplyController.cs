@@ -47,6 +47,16 @@ namespace PoldyCvAPI.Controllers
             }
             return BadRequest(result.Message);
         }
+        [HttpGet("getbyid")]
+        public IActionResult GetById(int getbyapplyId)
+        {
+            var result = _applyService.GetById(getbyapplyId);
+            if (result.Success)
+            {
+                return Ok(result.Data);
+            }
+            return BadRequest(result.Message);
+        }
         [HttpPost("add")]
         public IActionResult Add(Apply apply)
         {
