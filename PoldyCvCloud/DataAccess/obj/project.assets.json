@@ -6430,24 +6430,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hhson\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ademk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -6459,11 +6460,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj"
+            "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj"
             },
-            "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj"
+            "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj"
             }
           }
         }
