@@ -33,7 +33,7 @@ namespace PoldyCvAPI
             services.AddControllers();
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowOrigin", builder => builder.WithOrigins("https://localhost:44340"));
+                options.AddPolicy("AllowOrigin", builder => builder.WithOrigins("http://localhost:3000"));
             });
             services.AddSwaggerGen(c =>
             {
@@ -62,7 +62,7 @@ namespace PoldyCvAPI
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseCors(builder => builder.WithOrigins("http://localhost:44340").AllowAnyHeader());
+            app.UseCors(builder => builder.WithOrigins("http://localhost:3000").AllowAnyHeader());
             app.UseHttpsRedirection();
             app.UseSwagger();
             app.UseSwaggerUI(c =>

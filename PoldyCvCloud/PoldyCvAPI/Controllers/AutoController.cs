@@ -6,6 +6,7 @@ using Business.Abstract;
 using Entities.Dtos;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace PoldyCvAPI.Controllers
 {
@@ -53,7 +54,6 @@ namespace PoldyCvAPI.Controllers
             if (result.Success)
             {
                 return Ok(result.Data);
-
             }
 
             return BadRequest(result.Message);
