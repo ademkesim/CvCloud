@@ -363,6 +363,28 @@
         }
       }
     },
+    "/api/CurriculumVitae/getbyid": {
+      "get": {
+        "tags": [
+          "CurriculumVitae"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Department/add": {
       "post": {
         "tags": [
@@ -460,6 +482,28 @@
       "get": {
         "tags": [
           "Department"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Department/getbyid": {
+      "get": {
+        "tags": [
+          "Department"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -760,6 +804,28 @@
       }
     },
     "/api/Title/getbydepartment": {
+      "get": {
+        "tags": [
+          "Title"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Title/getbyid": {
       "get": {
         "tags": [
           "Title"

@@ -13,5 +13,6 @@ namespace Business.Abstract
         IResult Delete(Person person);
         IDataResult<List<Person>> GetList();
         Person GetByMail(string mail);
-   }
+        Person GetById(int id);
+    }
 }

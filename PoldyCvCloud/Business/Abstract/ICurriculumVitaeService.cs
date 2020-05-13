@@ -12,6 +12,6 @@ namespace Business.Abstract
         IResult Add(CurriculumVitae curriculumVitae, int id);
         IResult Update(CurriculumVitae curriculumVitae);
         IResult Delete(CurriculumVitae curriculumVitae);
-        IDataResult<List<CurriculumVitae>> GetById(int personId);
+        IDataResult<CurriculumVitae> GetById(int id);
     }
 }

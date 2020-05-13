@@ -38,13 +38,18 @@ namespace Business.Concrete
 
 
         public IDataResult<List<Person>> GetList()
-        {
+        { 
             return new SuccessDataResult<List<Person>>(_personDal.GetList());
         }
 
         public Person GetByMail(string mail)
         {
             return _personDal.Get(u => u.Mail == mail);
+        }
+
+        public Person GetById(int id)
+        {
+            return _personDal.Get(u => u.PersonId == id);
         }
    }
 }

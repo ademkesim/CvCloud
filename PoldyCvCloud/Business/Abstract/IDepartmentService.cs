@@ -15,6 +15,7 @@ namespace Business.Abstract
         IResult Delete(Department department);
 
         IDataResult<List<Department>> GetList();
+        IDataResult<List<Department>> GetById(int id);
 
     }
 }

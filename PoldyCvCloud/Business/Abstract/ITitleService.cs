@@ -16,5 +16,7 @@ namespace Business.Abstract
 
         IDataResult<List<Title>> GetList();
         IDataResult<List<Title>> GetByDepartment(int getbydepartmentId);
+        IDataResult<List<Title>> GetById(int getbyId);
+
     }
 }

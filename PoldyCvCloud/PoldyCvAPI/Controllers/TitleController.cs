@@ -65,6 +65,17 @@ namespace PoldyCvAPI.Controllers
 
             return BadRequest(result.Message);
         }
+        [HttpGet("getbyid")]
+        public IActionResult GetById(int id)
+        {
+            var result = _titleService.GetById(id);
+            if (result.Success)
+            {
+                return Ok(result.Data);
+            }
+
+            return BadRequest(result.Message);
+        }
         [HttpGet("getlist")]
         public IActionResult GetList()
         {

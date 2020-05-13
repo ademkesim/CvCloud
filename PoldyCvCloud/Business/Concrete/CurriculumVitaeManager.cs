@@ -133,9 +133,9 @@ namespace Business.Concrete
             return new SuccessResult(Messages.CurriculumVitaeDeleted);
         }
 
-        public IDataResult<List<CurriculumVitae>> GetById(int personId)
+        public IDataResult<CurriculumVitae> GetById(int id)
         {
-            return new SuccessDataResult<List<CurriculumVitae>>(_curriculumVitaeDal.GetList(p => p.PersonID == personId));
+            return new SuccessDataResult<CurriculumVitae>(_curriculumVitaeDal.Get(p=>p.PersonID == id));
         }
     }
 }
