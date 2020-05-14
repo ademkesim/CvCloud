@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj": {}
+    "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj": {
+    "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj": {
+    "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj"
+              "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj"
               }
             }
           }

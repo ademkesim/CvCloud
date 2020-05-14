@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kf9/IT6Ri//DdB0N0fcEdBGkHsdgMOY5bTQakzcCnIBLZjS6+SaENiTf7WAG1O/OFnwyjA+QGGZEwB1rnMszQ==",
+  "dgSpecHash": "eT5pj28CxBilknIfFvZ8NaBjwbMwoOA2dPA5T0RCNFIQbNC161k1QQ5MdBlofGqguVZbbko1cDmKXEs5k/iZIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

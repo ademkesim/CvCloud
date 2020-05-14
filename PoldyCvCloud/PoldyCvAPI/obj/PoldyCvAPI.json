@@ -907,7 +907,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "personId": {
+          "personID": {
             "type": "integer",
             "format": "int32"
           },
@@ -1065,8 +1065,9 @@
             "nullable": true
           },
           "mobilTelefonNumber": {
-            "type": "integer",
-            "format": "int32"
+            "type": "string",
+            "format": "tel",
+            "nullable": true
           },
           "mail": {
             "type": "string",

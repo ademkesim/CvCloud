@@ -64,13 +64,10 @@ public class ApplyManager:IApplyService
             return new SuccessDataResult<List<Apply>>(_applyDal.GetList(p => p.ApplyId == getbyapplyId));
         }
 
-        public IResult DownloadPdf(int personId)
+        public CurriculumVitae DownloadPdf(int personId)
         {
             var Cv = _curriculumVitaeDal.Get(p => p.PersonID == personId);
-            MemoryStream ms = new MemoryStream(Cv.CvPdf);
-            ms.Position = 0;
-            File.WriteAllBytes(@"D:\mypdf.pdf", ms.ToArray());
-            return new SuccessResult(Messages.DownloadedPdf);
+            return Cv;
         }
 
         public void Conformation()

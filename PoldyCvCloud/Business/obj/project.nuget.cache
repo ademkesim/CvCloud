@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oXnuvm3Qw35bpADqqiUiMLQ+VTSBTvaNeBtOKjV6rwysp9YfTSzqWLkOT8cPSXBZS6ychlhqTJZGwHYTUcKSSQ==",
+  "dgSpecHash": "VeUamxJSbTijsvJCkCucxrQ1bIPPO1zsoWDzscXbgLF4e9mutapHx0tXBzlpHp4x75unpdDtO9k+uef7Ur1uTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\itextsharp\\5.5.10\\itextsharp.5.5.10.nupkg.sha512",

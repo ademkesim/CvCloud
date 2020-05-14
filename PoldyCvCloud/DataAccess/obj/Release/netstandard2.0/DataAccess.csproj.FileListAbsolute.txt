@@ -12,3 +12,17 @@ C:\Users\ademk\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Release\ne
 C:\Users\ademk\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\ademk\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.dll
 C:\Users\ademk\Source\Repos\PoldyCvCloud5\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.pdb
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\DataAccess.deps.json
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\DataAccess.dll
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\DataAccess.pdb
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\Core.dll
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\Entities.dll
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\Core.pdb
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\bin\Release\netstandard2.0\Entities.pdb
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.dll
+C:\Users\ademk\Source\Repos\PoldyCvCloud\PoldyCvCloud\DataAccess\obj\Release\netstandard2.0\DataAccess.pdb

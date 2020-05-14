@@ -38,7 +38,7 @@ namespace Entities.Concrete
         public string Address { get; set; }
         [Required(ErrorMessage = "Lütfen Telefon Numarası Giriniz")]
         [DataType(DataType.PhoneNumber)]
-        public int MobilTelefonNumber { get; set; }
+        public string MobilTelefonNumber { get; set; }
         [Required(ErrorMessage = "Lütfen E Postanızı Giriniz")]
         [DataType(DataType.EmailAddress)]
         public string Mail { get; set; }
@@ -52,6 +52,5 @@ namespace Entities.Concrete
         [Required(ErrorMessage = "Lütfen Referansınızı Giriniz")]
         public string Reference { get; set; }
         public byte[] CvPdf { get; set; }
-
     }
 }

@@ -9,7 +9,7 @@ namespace Entities.Concrete
    public class Apply:IEntity
     {
         public int ApplyId { get; set; }
-        public int PersonId { get; set; }
+        public int PersonID { get; set; }
         public int TitleId { get; set; }
         public int DepartmentId { get; set; }
         public int JobAdvertisementId { get; set; }

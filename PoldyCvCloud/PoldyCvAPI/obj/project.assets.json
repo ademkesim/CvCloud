@@ -9546,11 +9546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
       "projectName": "PoldyCvAPI",
-      "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
+      "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\PoldyCvAPI.csproj",
       "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
+      "outputPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\PoldyCvAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9566,8 +9566,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Business\\Business.csproj"
+            "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Business\\Business.csproj"
             }
           }
         }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Business.Abstract;
@@ -90,14 +91,11 @@ namespace PoldyCvAPI.Controllers
         }
 
         [HttpGet("downloadpdf")]
-        public IActionResult DownloadPdf(int personId)
+        public ActionResult DownloadPdf(int personId)
         {
-            var result = _applyService.DownloadPdf(personId);
-            if (result.Success)
-            {
-                return Ok(result.Message);
-            }
-            return BadRequest(result.Message);
+            var PoldyCv = _applyService.DownloadPdf(personId);
+            MemoryStream ms = new MemoryStream(PoldyCv.CvPdf);
+            return new FileStreamResult(ms, "application/pdf");
         }
     }
 }

@@ -19,7 +19,7 @@ namespace Business.Abstract
 
       IDataResult<List<Apply>> GetByTitle(int getbytitleId);
       IDataResult<List<Apply>> GetById(int getbyapplyId);
-      IResult DownloadPdf(int personId);
+      CurriculumVitae DownloadPdf(int personId);
       void Conformation();
 
   }

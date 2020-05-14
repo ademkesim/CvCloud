@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l52lv3phwQYJGmSu4bbq4Z5qrZZk8s/YXYdHnJVwUSjzXHSBoa39Z9CMV25bHRP+qFXmkzhAtyoHBKN0BeiIlA==",
+  "dgSpecHash": "3adhPWb24/GDrYy93rMf9OFtrUpy8yM3ok+/q6T3kOJetA7PDAS5bUlahZmyxYe3Fs1AJ6joAIscSHao97uBOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud5\\PoldyCvCloud\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\ademk\\Source\\Repos\\PoldyCvCloud\\PoldyCvCloud\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ademk\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
