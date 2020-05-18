@@ -10,7 +10,7 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;initial catalog=PoldySoftwareCv;integrated security=true");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\ProjectsV13;initial catalog=PoldySoftwareCv;integrated security=true");
         }
         public DbSet<Person> Persons { get; set; }
         public DbSet<JobAdvertisement> JobAdvertisements { get; set; }
